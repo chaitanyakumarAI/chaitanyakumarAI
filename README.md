@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-🎓 **B.Tech in Data Science & AI** @ IIT Bhilai (2023–2027) | CGPA: **8.39/10**
+🎓 **B.Tech in Data Science & AI** @ IIT Bhilai (2023–2027) | CGPA: **8.46/10**
 
 🚀 I build **production-grade AI systems**, backend automation pipelines, and deep learning applications.
 
